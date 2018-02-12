@@ -10,6 +10,9 @@
 
 @interface DetailViewController ()
 
+//modificación 1 para prueba
+
+
 @end
 
 @implementation DetailViewController
